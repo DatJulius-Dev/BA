@@ -1,0 +1,6 @@
+khuyết điểm mã giả:
+-khó kiểm tra logic
+-ko đồng bộ đồng nhất
+ưu:
+-dễ đọc, hiểu, sử dụng.
+-dễ chuyển đổi khi implementation
